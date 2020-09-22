@@ -1,0 +1,27 @@
+.Attribute {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  color: #281D09;
+  padding: 0 15px;
+  width: 50%;
+  user-select: none;
+
+  &Dark {
+    background: #281D09;
+    color: #fff;
+  }
+
+  > div {
+    display: flex;
+    align-items: center;
+    font-size: 1.1rem;
+  }
+
+  > div:first-child {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-right: 10px;
+  }
+
+}

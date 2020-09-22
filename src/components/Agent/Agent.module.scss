@@ -1,0 +1,10 @@
+.Agent {
+  display: flex;
+  flex-direction: column;
+  padding: .5rem 1rem;
+
+  > a {
+    //text-decoration: none;
+    color: currentColor;
+  }
+}

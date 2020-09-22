@@ -1,0 +1,21 @@
+.favorite {
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  svg {
+    width: 25px;
+    height: 25px;
+    fill: #281D09;
+  }
+}
+
+//.full{
+//  fill:#281D09;
+//}
+//.empty{
+//  fill
+//}
